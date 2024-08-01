@@ -1,0 +1,4 @@
+get: b, c,
+  int a,
+    a = c - b,
+      return a
