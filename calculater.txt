@@ -1,0 +1,4 @@
+get: a,b
+  int c,
+    a+b = c
+      return c
